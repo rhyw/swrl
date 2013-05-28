@@ -132,7 +132,6 @@ http://*.epochtimes.com/*
 *://*.1e100.*/*
 *://*.googlesyndication.*/*
 *://*.git-scm.com/*
-*://*.redhat.com/*
 *://bit.ly/*
 *://t.co/*
 *://*.bbc.co.uk/*
