@@ -36,6 +36,7 @@
 *://*.evernote.com/*
 *://github.*/*
 *://*.github.*/*
+*://*.wordpress.com/*
 *://*.wikipedia.*/*
 *://*.etherpad.org/*
 [regexp]
